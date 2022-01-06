@@ -123,14 +123,18 @@
     </div>
 
     <div class="effect-carousel">
-      <div><img class="thumb" src="thumbs/galaxy.png"></div>
-      <div><img class="thumb" src="thumbs/aviators.png"></div>
+      <div><img class="thumb" src="thumbs/ballface.png"></div>
+      <div><img class="thumb" src="thumbs/beauty.png"></div>
       <div><img class="thumb" src="thumbs/beard.png"></div>
       <div><img class="thumb" src="thumbs/dalmatian.png"></div>
       <div><img class="thumb" src="thumbs/flowers.png"></div>
       <div><img class="thumb" src="thumbs/koala.png"></div>
-      <div><img class="thumb" src="thumbs/lion.png"></div>
+      <div><img class="thumb" src="thumbs/fairylight.png"></div>
       <div><img class="thumb" src="thumbs/teddy_cigar.png"></div>
+      <div><img class="thumb" src="thumbs/hair.png"></div>
+      <div><img class="thumb" src="thumbs/manlyface.png"></div>
+      <div><img class="thumb" src="thumbs/plasticocean.png"></div>
+      <div><img class="thumb" src="thumbs/scuba.png"></div>
     </div>
 
 
