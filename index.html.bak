@@ -123,7 +123,7 @@
     </div>
 
     <div class="effect-carousel">
-      <div><img class="thumb" src="thumbs/ballface.png"></div>
+      <div><img class="thumb" src="thumbs/galaxy.png"></div>
       <div><img class="thumb" src="thumbs/beauty.png"></div>
       <div><img class="thumb" src="thumbs/beard.png"></div>
       <div><img class="thumb" src="thumbs/dalmatian.png"></div>
@@ -300,13 +300,18 @@
 
         var effects = [
           './effects/background_segmentation',
-          './effects/aviators',
+          './effects/beauty',
           './effects/beard',
           './effects/dalmatian',
           './effects/flowers',
           './effects/koala',
-          './effects/lion',
+          './effects/fairy_lights',
           './effects/teddycigar'
+          './effects/hair_segmentation'
+          './effects/manly_face'
+          './effects/plastic_ocean'
+          './effects/scuba'
+          
         ];
 
         $('.effect-carousel').on('afterChange', function(event, slick, currentSlide){
